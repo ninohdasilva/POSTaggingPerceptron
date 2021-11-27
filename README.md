@@ -1,4 +1,4 @@
-# POSTaggingPerceptron
+# POS Tagging Perceptron
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 
 Perceptron for Part-Of-Speech Tagging, from scratch with no NLP libraries.
